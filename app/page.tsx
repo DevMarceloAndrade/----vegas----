@@ -8,10 +8,10 @@ export default function Home() {
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center gap-4">
             <Image src="/vegas.png" alt="Ícone do Servidor VEGAS" width="160" height="160" className=" rounded-2xl shadow-2xl w-20 h-20" />
-            <h1 className="text-xl font-bold tracking-wider">----VEGAS----</h1>
+            <h1 className="text-xl font-bold tracking-wider">VEGAS</h1>
           </div>
 
-          <a href="https://discord.gg/wRgAGCE3HW" target="_blank" rel="noopener noreferrer" className="blurple hover-blurple text-white font-bold py-2 px-4 rounded-lg transition-all duration-300 transform hover:scale-105">
+          <a href="https://discord.gg/wRgAGCE3HW" target="_blank" rel="noopener noreferrer" className="blurple text-center hover-blurple text-white font-bold py-2 px-4 rounded-lg transition-all duration-300 transform hover:scale-105">
             Entrar no Servidor
           </a>
         </div>
@@ -21,7 +21,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto">
           <Image src="/vegas.png" alt="Ícone do Servidor VEGAS" width="160" height="160" className="mx-auto mb-8 rounded-2xl shadow-2xl w-40 h-40" />
           <h2 className="text-4xl md:text-6xl font-extrabold leading-tight mb-4">Bem-vindo ao <span className="blurple-text">----VEGAS----</span></h2>
-          <p className="text-lg md:text-xl text-slate-300 mb-8 max-w-2xl mx-auto">Desde 2021 reunindo os piores elementos da sociedade para a zoeira suprema. Se você se ofende fácil, já pode fechar a página.</p>
+          <p className="text-lg md:text-xl text-slate-300 mb-8 max-w-2xl mx-auto">Reunindo os piores elementos da sociedade para a zoeira suprema. Se você se ofende fácil, já pode fechar a página.</p>
           <a href="https://discord.gg/wRgAGCE3HW" target="_blank" rel="noopener noreferrer" className="blurple hover-blurple text-white font-bold py-4 px-8 rounded-lg text-lg transition-all duration-300 inline-block shadow-lg transform hover:scale-105">
             Entra aí, se tiver coragem
           </a>
@@ -33,7 +33,7 @@ export default function Home() {
           <div className="flex flex-col lg:flex-row items-center justify-center gap-12">
             <div className="lg:w-1/3 text-center lg:text-left">
               <h3 className="text-3xl font-bold mb-4">Dá uma olhada nos desocupados!</h3>
-              <p className="text-slate-400 mb-6">Veja quem tá online perdendo tempo. Clica pra entrar na conversa, mas cuidado: eles mordem.</p>
+              <p className="text-slate-400 mb-6">Veja quem tá online perdendo tempo. Clica pra entrar na conversa, mas cuidado.</p>
               <a href="https://discord.gg/wRgAGCE3HW" target="_blank" rel="noopener noreferrer" className="blurple hover-blurple text-white font-bold py-3 px-6 rounded-lg transition-all duration-300 inline-block shadow-lg transform hover:scale-105">
                 Conectar-se
               </a>
